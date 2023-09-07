@@ -5,7 +5,7 @@ as aulas de geografia.</p>
 
 ![quiz](https://github.com/jacksonVargas/QuizJS/assets/93093923/54684f3b-5b21-4319-b4dd-22d4373335a4)
 
-# 🛠 Tecnologias
+# 👨‍💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
